@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "meta": {
+    "width": 32,
+    "height": 32,
+    "fps": 8,
+    "palette": [
+      "#11111b",
+      "#ff5ca8",
+      "#ffadd5",
+      "#fff0f8",
+      "#70416a"
+    ],
+    "bg_index": 0
+  },
+  "frames": [
+    {
+      "index": 0,
+      "png_base64": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAIAAAD8GO2jAAAAhUlEQVR4nGMUFJRmoCVgoqnpoxaMWjBqAfEWvJuz692cXQiud+87716qWQA3GmIo3Ggi7WDEXxYhO5xh/WVMBUJbi/FbwELAAdgMJQkQCCL8DiTofMIW4DGFGNOJsgCrWUSaTqwFaCYSbzoJFsDNJcl0BoLJlHIwOIqKUQtGLRi1YKRbAAAqsCNn7auTzwAAAABJRU5ErkJggg==",
+      "note": "Heartbeat loop / pose 1 of 8"
+    },
+    {
+      "index": 1,
+      "png_base64": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAIAAAD8GO2jAAAAuElEQVR4nGMUFJRmoCVgoqnpoxYMLwvezdlFQwvezdnF4KyM1Q5GauWDd3N2CaW4YYqj+wCrK97N2YUs/s679513L5oarKajW4DVp3AuxFC40Zh2YAXoQYTmUxTL1l/G1C+0tRi/BSzoGtB8is1QkgCBVITfgQSdT9gCPKYQYzpRFmA1i0jTibUAzUTiTSfBAri5JJnOQMWcjAsMndKUAUcxQ9XiGluBSs04wFqgjkbyqAWjFtDBAgB6tEQpoLYb3AAAAABJRU5ErkJggg==",
+      "note": "Heartbeat loop / pose 2 of 8"
+    },
+    {
+      "index": 2,
+      "png_base64": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAIAAAD8GO2jAAAAs0lEQVR4nGMUFJRmoCVgoqnpoxYMLwvezdlFQwvezdnF4KyM1Q5GYvIBRKdQihuU693LwMAgtLUYTQ1cATJA9wGmK+AiEHMhJDIDArCajm4Bpk/R7EMzFI2LFbCguQLdp+svEzQCPyAcB3iciRYNWAHhVITLFGJMJ8oCrGYRaTqxFqCZSLzpJFgAN5ck0xmIzGiUgKFT2NHDAqyFHVWLa2wFKjUjGWuBOpqKRi0YtYAOFgAA6ZdDcY+B/RMAAAAASUVORK5CYII=",
+      "note": "Heartbeat loop / pose 3 of 8"
+    },
+    {
+      "index": 3,
+      "png_base64": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAIAAAD8GO2jAAAAuElEQVR4nGMUFJRmoCVgoqnpoxYMLwvezdlFQwvezdnF4KyM1Q5GauWDd3N2CaW4YYqj+wCrK97N2YUs/s679513L5oarKajW4DVp3AuxFC40Zh2YAXoQYTmUxTL1l/G1C+0tRi/BSzoGtB8is1QkgCBVITfgQSdT9gCPKYQYzpRFmA1i0jTibUAzUTiTSfBAri5JJnOQMWcjAsMndKUAUcxQ9XiGluBSs04wFqgjkbyqAWjFtDBAgB6tEQpoLYb3AAAAABJRU5ErkJggg==",
+      "note": "Heartbeat loop / pose 4 of 8"
+    },
+    {
+      "index": 4,
+      "png_base64": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAIAAAD8GO2jAAAAhUlEQVR4nGMUFJRmoCVgoqnpoxaMWjBqAfEWvJuz692cXQiud+87716qWQA3GmIo3Ggi7WDEXxYhO5xh/WVMBUJbi/FbwELAAdgMJQkQCCL8DiTofMIW4DGFGNOJsgCrWUSaTqwFaCYSbzoJFsDNJcl0BoLJlHIwOIqKUQtGLRi1YKRbAAAqsCNn7auTzwAAAABJRU5ErkJggg==",
+      "note": "Heartbeat loop / pose 5 of 8"
+    },
+    {
+      "index": 5,
+      "png_base64": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAIAAAD8GO2jAAAAhUlEQVR4nGMUFJRmoCVgoqnpoxaMWjBqwSCy4N2cXe/m7EJwvXvfefdSzQK40RBD4UYTaQcj/sIO2eEM6y9jKhDaWozfAhYCDsBmKEmAQBDhdyBB5xO2AI8pxJhOlAVYzSLSdGItQDOReNNJsABuLkmmMxBMppSDwVFUjFowasGoBYPcAgDvNCNnDmCJyAAAAABJRU5ErkJggg==",
+      "note": "Heartbeat loop / pose 6 of 8"
+    },
+    {
+      "index": 6,
+      "png_base64": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAIAAAD8GO2jAAAAhUlEQVR4nGMUFJRmoCVgoqnpoxaMWjBqAfEWvJuz692cXQiud+87716qWQA3GmIo3Ggi7WDEXxYhO5xh/WVMBUJbi/FbwELAAdgMJQkQCCL8DiTofMIW4DGFGNOJsgCrWUSaTqwFaCYSbzoJFsDNJcl0BoLJlHIwOIqKUQtGLRi1YKRbAAAqsCNn7auTzwAAAABJRU5ErkJggg==",
+      "note": "Heartbeat loop / pose 7 of 8"
+    },
+    {
+      "index": 7,
+      "png_base64": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAIAAAD8GO2jAAAAhUlEQVR4nGMUFJRmoCVgoqnpoxaMWjBqAfEWvJuz692cXQiud+87716qWQA3GmIo3Ggi7WDEXxYhO5xh/WVMBUJbi/FbwELAAdgMJQkQCCL8DiTofMIW4DGFGNOJsgCrWUSaTqwFaCYSbzoJFsDNJcl0BoLJlHIwOIqKUQtGLRi1YKRbAAAqsCNn7auTzwAAAABJRU5ErkJggg==",
+      "note": "Heartbeat loop / pose 8 of 8"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+PIXEL ART ANIMATOR - README AND ANIMATION PACK
+
+Copy README.md, docs/, and examples/ into your existing Pixel-Art-Animator
+repository. This replaces documentation only; it does not modify application code.
+
+Keep the entire GIF aspect ratio. README embeds use width=100% or width=320
+without forcing a height. No third-party banner services or Actions are required.
+
+Included animations are original illustrative graphics generated for this pack.
+They are NOT app screenshots or recordings. The editable sample uses the JSON
+schema inspected in pixel_animator.py, but has not been loaded in the GUI here.
+
+README source review found placeholder frame handlers. The documentation calls
+this out rather than advertising unfinished behavior as production-ready.
+The existing filename requirments.txt is preserved in setup commands.
+
+Do not commit runtime files like recent_projects.json, which contains local paths.
+Suggested additions to your currently empty .gitignore:
+  .venv/
+  __pycache__/
+  *.py[cod]
+  recent_projects.json
+  pixel_animator_autosave.json
+
+To publish in VS Code: save all, stage the README and docs/examples files,
+commit with a message such as "docs: add animated guide and sample project",
+then pull remote updates if needed and push. Never force-push to bypass divergence.
+
+VALIDATION
+GIFs were decoded to confirm multiple frames and looping metadata.
+Sample JSON PNG data was decoded and dimensions checked.
+All README local image/asset links were checked against archive contents.
+No desktop execution or cross-platform compatibility test was performed.
