@@ -1,0 +1,24 @@
+# Core dependencies
+# Add your actual dependencies here. Common ones for pixel animation:
+
+# For GUI (if using tkinter, it's built-in)
+# tkinter
+
+# For image processing
+Pillow>=9.0.0
+
+# For animation/export
+imageio>=2.9.0
+imageio-ffmpeg>=0.4.5
+
+# For CLI
+click>=8.0.0
+
+# For testing
+pytest>=7.0.0
+pytest-cov>=3.0.0
+
+# For development
+black>=22.0.0
+flake8>=4.0.0
+mypy>=0.900
